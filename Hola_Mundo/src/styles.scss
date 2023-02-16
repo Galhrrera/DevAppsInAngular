@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+$background_color: #020d5f;
+$text_color: whitesmoke;
+
+* {
+    font-family: 'Roboto', sans-serif;
+    background-color: $background_color;
+    color: $text_color;
+    text-align: center;
+}
